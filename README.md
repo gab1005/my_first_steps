@@ -39,3 +39,14 @@ Se não existir em seu diretório, adicione ao seu diretório um arquivo com o n
 # Ignorar o arquivo "serei_ignorado.txt" - alpha edtech
 serei_ignorado.txt
 ```
+
+---
+## 5
+Dentro do seu diretório local, crie um arquivo chamado “README.md” e edite-o contendo todas as respostas aos enunciados das questões anteriores. Adicione-o ao seu repositório remoto utilizando os comandos git necessários para a realização desta tarefa.
+```bash
+Editei o README.md com as respostas, após fiz um commit e push padrão,
+depois usei:
+$ git add .
+$ git commit -m ""colocar respostas no README.md"
+$ git push
+```
