@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ignorar o arquivo "serei_ignorado.txt" - alpha edtech
+serei_ignorado.txt
